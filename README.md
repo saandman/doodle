@@ -7,4 +7,23 @@ A simple project to understand the working of a search engine.
 3) Start XAMPP server.
 4) Run localhost/doodle-master
 
+Logo
 ![Logo](/Screenshots/doodleLogo.png)
+
+Home
+![](/Screenshots/home.png)
+
+Search Page
+![](/Screenshots/Search.png)
+
+Pagination.png 
+![](/Screenshots/Pagination)
+
+Image Search
+![](/Screenshots/Image search.png)
+
+Image Diaplay
+![](/Screenshots/Image Display.png)
+
+ER Diagram
+![](/Screenshots/ER Diagram.png)
