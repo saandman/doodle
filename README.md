@@ -8,6 +8,7 @@ A simple project to understand the working of a search engine.
 4) Run localhost/doodle-master
 
 Logo
+
 ![Logo](/Screenshots/doodleLogo.png)
 
 
