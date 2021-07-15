@@ -10,20 +10,32 @@ A simple project to understand the working of a search engine.
 Logo
 ![Logo](/Screenshots/doodleLogo.png)
 
+
 Home
+
 ![](/Screenshots/home.png)
 
+
 Search Page
+
 ![](/Screenshots/Search.png)
 
+
 Pagination.png 
+
 ![](/Screenshots/Pagination)
 
+
 Image Search
-![](/Screenshots/Image search.png)
+
+![](/Screenshots/Imagesearch.png)
+
 
 Image Diaplay
-![](/Screenshots/Image Display.png)
+
+![](/Screenshots/Imagedisplay.png)
+
 
 ER Diagram
-![](/Screenshots/ER Diagram.png)
+
+![](/Screenshots/ERdiagram.png)
