@@ -24,7 +24,7 @@ Search Page
 
 Pagination.png 
 
-![](/Screenshots/Pagination)
+![](/Screenshots/Pagination.png)
 
 
 Image Search
